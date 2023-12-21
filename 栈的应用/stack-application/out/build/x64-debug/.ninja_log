@@ -1,0 +1,6 @@
+# ninja log v5
+4	504	7248726500859123	stack-application/CMakeFiles/stack-application.dir/stack-application.cpp.obj	b2d08759bb9830c4
+506	855	7248726503894110	stack-application/stack-application.exe	37d2636930841fec
+2	616	7248729287382638	stack-application/CMakeFiles/stack-application.dir/stack-application.cpp.obj	b2d08759bb9830c4
+8	618	7248729287392605	stack-application/CMakeFiles/stack-application.dir/ways.cpp.obj	445f42ffed8fad14
+618	932	7248729290055184	stack-application/stack-application.exe	dbc65a6a6b68f4d1
